@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "id": "sfsfsdfsdfsdf",
+      "nome": "Guilherme Mendes da Cunha",
+      "telefone": "1234567"
+    },
+    {
+      "id": "46546fsdfsdf",
+      "nome": "Maria da Silva",
+      "telefone": "244466666"
+    },
+    {
+      "id": "AhfqnP",
+      "nome": "asdadadas",
+      "telefone": "234224"
+    },
+    {
+      "nome": "eryeterter",
+      "telefone": "1230963",
+      "id": "AND2y8"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": "sfsfsdfsdfsdf",
+      "nome": "Guilherme Mendes da Cunha",
+      "endereco": "Rua Lucario",
+      "telefone": "1234567"
+    },
+    {
+      "nome": "Pikachu",
+      "endereco": "Rua Pikachu",
+      "telefone": "98765438",
+      "id": "nZzeYL"
+    },
+    {
+      "nome": "Abrobinha",
+      "endereco": "Abroba",
+      "telefone": "654398765",
+      "id": "6lUjqD"
+    }
+  ]
+}
